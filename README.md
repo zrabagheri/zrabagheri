@@ -1,8 +1,7 @@
 # Hi there, I'm Zahra Bagheri 
 
 ###  Biomedical Engineering (Bioelectric) M.Sc. Graduate
-I am passionate about **Medical Image Analysis**, **Machine Learning**, and the intersection of **AI and Healthcare**. My work focuses on representation learning and computational neuroscience.
-
+I am passionate about **Medical Image Analysis**, **Machine Learning**, and the intersection of **AI and Healthcare**. I am passionate about **Medical Image Analysis**, **Machine Learning**, and the intersection of **AI and Healthcare**. My work focuses on clinical risk prediction, representation learning and computational neuroscience.
 ---
 
 ##  Skills & Tools
