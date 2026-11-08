@@ -16,9 +16,10 @@ I'm passionate about medical image analysis, machine learning, and the intersect
 
 | Project | Description |
 |---|---|
-| [Mortality Risk Prediction (NHANES)](https://github.com/zrabagheri/REPO-NAME) | 10-year all-cause mortality model using Cox elastic-net, with temporal external validation and decision curve analysis |
-| [Alzheimer's Detection](https://github.com/zrabagheri/REPO-NAME) | Deep learning on brain MRI scans |
-| [Credit Card Fraud Detection](https://github.com/zrabagheri/REPO-NAME) | Imbalanced classification with SMOTE and Random Forest |
+| [Mortality Risk Prediction (NHANES)](https://github.com/zrabagheri/nhanes-mortality-risk-model) | 10-year all-cause mortality model using Cox elastic-net, with temporal external validation and decision curve analysis |
+| [HRV Leakage Benchmark](https://github.com/zrabagheri/hrv-leakage-benchmark) | Benchmarking the effect of data leakage on heart rate variability (HRV) models |
+| [Multimodal Alzheimer's Detection](https://github.com/zrabagheri/multimodal-Alzheimer-detection-MRI-PET-CCA) | Alzheimer's classification from MRI and PET using texture and shape features, CCA-based fusion, and SVM |
+| [Credit Card Fraud Detection](https://github.com/zrabagheri/credit-card-fraud-detection) | Imbalanced classification with SMOTE and Random Forest |
 
 ## 📫 How to reach me
 
