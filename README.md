@@ -7,9 +7,9 @@ I'm passionate about medical image analysis, machine learning, and the intersect
 ## 🛠 Skills & Tools
 
 - **Languages & libraries:** Python (NumPy, Pandas, SciPy, Matplotlib, scikit-learn)
-- **Machine learning:** deep learning for medical imaging, survival analysis (Cox PH, elastic-net)
-- **Model validation:** calibration, temporal external validation, decision curve analysis
-- **Domains:** clinical risk prediction (NHANES), MRI/DICOM analysis, Alzheimer's detection
+- **Machine learning:** survival analysis (Cox PH, elastic-net), classical ML (SVM, Random Forest), multimodal fusion (CCA), deep learning for medical imaging
+- **Model validation:** calibration, temporal external validation, decision curve analysis, data leakage prevention
+- **Domains:** clinical risk prediction (NHANES), physiological signals (HRV), MRI/PET analysis, Alzheimer's detection
 - **Workflow:** Git/GitHub, Jupyter Notebooks
 
 ## 📌 Featured Projects
